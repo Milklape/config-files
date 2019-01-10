@@ -1,0 +1,2 @@
+# mount "data" directory on server "ttfs" to local directory "/ttfs"
+ttfs:/data      /ttfs           nfs     ro,soft,intr    0       0
