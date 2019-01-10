@@ -1,0 +1,20 @@
+%% fg color (grayish cyan)
+#bdc6c7
+
+%% bg color (very dark blue)
+#17283D
+
+%% hi-line color (very dark gray)
+#3d3d3d
+
+%% hi-light color (Mostly desaturated dark green)
+#8FAE70
+
+%% comment color (dark grayish cyan)
+#586e75
+
+%% function or section or etc.? color (vivid cyan)
+#01d0df
+
+%% sub function or etc.? color (strong blue)
+#268bd2
